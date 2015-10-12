@@ -1,0 +1,138 @@
+body {
+background: url('../images/splat.jpg') repeat fixed center center / cover  rgba(0, 0, 0, 0);
+margin: -20px -20px 0 0;
+}
+
+p {
+font-size: 16px;
+line-height: 1.5em;
+font-family: 'Raleway', sans-serif;
+}
+
+p a:link {
+text-decoration: none;
+color: #000000
+}
+
+p a:visited {
+text-decoration: none;
+color: #000000
+}
+
+p a:hover {
+text-decoration: none;
+color: #33CC33
+}
+
+p a:click {
+text-decoration: none;
+color: #000000
+}
+
+
+#container {
+width: 385px;
+height: 750px;
+float: right;
+background: rgba(255, 255, 255, 0.75);
+border-radius: 6px 0 0 6px;
+margin: 10px;
+padding: 20px;
+}
+
+h3 {
+font-family: 'Syncopate', sans-serif;
+font-size: 16px;
+background: none repeat scroll 0 0 #CFC6C2;
+border-radius: 5px 0 0 5px;
+color: white;
+padding: 10px;
+margin: -10px -20px 0 0;
+}
+h1 {
+font-size: 64px;
+text-align: center;
+font-family: 'Righteous', cursive;
+margin: 0px, 0px, -5px, 0px;
+}
+
+ul.icons {
+	list-style-type: none;
+}
+
+ul.icons li {
+	display: inline-block;
+	color: #ff9a6b;
+}
+
+
+ul.icons a {
+background: url(../images/sprites.png) no-repeat;
+display: block;
+width: 65px;
+height: 65px;
+margin-left: auto;
+margin-right: auto;
+}
+
+ul.icons a.social-network101 {
+	background-position: -279px 0;
+}
+
+ul.icons a.social-network101:hover {
+	background-position: -278px -149px ;
+}
+
+ul.icons a.social-network101:active {
+	background-position: -281px -76px ;
+}
+
+ul.icons a.twitter {
+	background-position: -212px 0;
+}
+
+ul.icons a.twitter:hover {
+	background-position: -208px -150px ;
+}
+
+ul.icons a.twitter:active {
+	background-position: -208px -76px ;
+}
+
+ul.icons a.github10 {
+	background-position: -143px -1px ;
+}
+
+ul.icons a.github10:hover {
+	background-position: -137px -147px ;
+}
+
+ul.icons a.github10:active {
+	background-position: -139px -75px ;
+}
+
+ul.icons a.new67 {
+	background-position: -72px -2px ;
+}
+
+ul.icons a.new67:hover {
+	background-position: -67px -150px ;
+}
+
+ul.icons a.new67:active {
+	background-position: -70px -76px ;
+}
+
+ul.icons a.spotify5 {
+	background-position: 0 -4px ;
+}
+
+ul.icons a.spotify5:hover {
+	background-position: 0 -151px ;
+}
+
+ul.icons a.spotify5:active {
+	background-position: 0 -79px ;
+}
+
+
